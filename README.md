@@ -1,10 +1,13 @@
-# Computer Science
 ## Contact Information
-Phone: +84 398959774
 
-![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) toilakiet.dev@gmail.com
+Phone : +84 398959774
+
+Email : toilakiet.dev@gmail.com
 
 ## Education
+
+###Bachelor of Computer Science
+
 VNUHCM - University of Information Technology
 
 2023 - Present
