@@ -19,4 +19,4 @@ Sophomore
 
 -------------------------------------------
 ## Socials
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=normal&logo=linkedin&logoColor=white)](www.linkedin.com/in/toilakiet)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=normal&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toilakiet/?_l=en_US)
