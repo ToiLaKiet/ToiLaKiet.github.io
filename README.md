@@ -1,8 +1,8 @@
 ## Contact Information
 
-Phone : +84398959774
+**Phone** : +84398959774
 
-Email : toilakiet.dev@gmail.com
+**Email** : toilakiet.dev@gmail.com
 
 ## Education
 
