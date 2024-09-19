@@ -1,6 +1,6 @@
 title: Vo Anh Kiet
 remote_theme: pages-themes/minimal@v0.2.0
-description: *Portfolio For My Computer Science Career Path*
+description: Portfolio For My Computer Science Career Path
 logo: assests/IMG_3951.JPG
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
