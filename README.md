@@ -6,7 +6,7 @@ Email : toilakiet.dev@gmail.com
 
 ## Education
 
-### Bachelor of Computer Science
+### *Bachelor of Computer Science* 
 
 VNUHCM - University of Information Technology
 
