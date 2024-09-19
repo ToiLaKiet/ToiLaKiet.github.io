@@ -1,9 +1,7 @@
 # Computer Science
 ## Contact Information
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=normal&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toilakiet/)
-
-[![Facebook](https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook)](https://www.facebook.com/voanhkiet05/)
+Phone: +84 398959774
+[!Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): toilakiet.dev@gmail.com
 
 ## Education
 VNUHCM - University of Information Technology
