@@ -2,5 +2,7 @@ title: Vo Anh Kiet
 remote_theme: pages-themes/minimal@v0.2.0
 description: _Taken since I was on 12th grade_
 logo: assests/IMG_3951.JPG
+params:
+  favicon: assests/favicon.jpg
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
