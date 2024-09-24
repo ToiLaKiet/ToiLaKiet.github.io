@@ -24,12 +24,11 @@ Sophomore
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=normal&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toilakiet/?_l=en_US)
 
---------------------------------------------
+<h2>Loading...</h2>
  <br>
- 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishannaik/Ishannaik/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light" srcset="https://raw.githubusercontent.com/Ishannaik/Ishannaik/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ishannaik/Ishannaik/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Ishannaik/Ishannaik/output/github-contribution-grid-snake-dark.svg" />
   </picture>
