@@ -22,8 +22,8 @@ Sophomore
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=normal&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toilakiet/?_l=en_US)
 
 -------------------------------------------
-<h2 align=left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+## Languages-Frameworks-Tools
+
 <div align="left">
   
 <a href="https://www.python.org/">
