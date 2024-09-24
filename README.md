@@ -20,3 +20,26 @@ Sophomore
 -------------------------------------------
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=normal&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toilakiet/?_l=en_US)
+
+-------------------------------------------
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+  
+<a href="https://www.python.org/">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python">
+</a>
+
+<a href="https://code.visualstudio.com/">
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code">
+</a>
+
+<a href="https://www.docker.com/">
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker">
+</a>
+
+<a href="https://www.mysql.com/">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL">
+</a>
+
+<h1 align="center"> 
