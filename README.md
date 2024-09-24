@@ -22,9 +22,9 @@ Sophomore
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=normal&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toilakiet/?_l=en_US)
 
 -------------------------------------------
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align=left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
+<div align="left">
   
 <a href="https://www.python.org/">
   <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python">
@@ -42,4 +42,4 @@ Sophomore
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL">
 </a>
 
-<h1 align="center"> 
+<h1 align="left"> 
